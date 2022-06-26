@@ -1,0 +1,41 @@
+body{
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    border: 5px solid white;
+
+
+}
+
+
+.center {
+
+    text-align: center;
+
+}
+footer{
+    color: green;
+    
+}
+h1{
+    color: red;
+    position: static;
+    fill: black;
+    align-items: center;
+    padding: 0%;
+}
+caption{
+    color: red;
+    
+}
+th{
+    color: green;
+}
+tr{
+    color: darkgrey;
+}
+footer {
+
+}
